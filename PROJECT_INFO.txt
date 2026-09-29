@@ -1,0 +1,9 @@
+CodeAlpha Artificial Intelligence Internship
+Task 3: Music Generation with AI
+Author: Ayman Boufounas
+
+Stack:
+Python + TensorFlow/Keras + LSTM + music21 + NumPy
+
+Pipeline:
+MIDI -> notes/chords -> sequences -> LSTM -> generated sequence -> MIDI
